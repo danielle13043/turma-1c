@@ -1,4 +1,4 @@
-# turma1c
+# turma-1c
 ## repositório arquivo aula HTML e cbs
   (informação particular) arquivos da aula de pensamento computacional
 ## linguagem HTML
