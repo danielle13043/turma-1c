@@ -2,3 +2,6 @@ h1 {
     text-align:center;
     background: rgb(159, 250, 194);
 }
+body {
+    text-align: right;
+}
